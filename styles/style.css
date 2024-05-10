@@ -1,15 +1,15 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #043811;
+    background-color: #66d381;
   }
   
   .container {
     max-width: 400px;
     margin: 50px auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #d39b9b;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(97, 10, 10, 0.1);
   }
   
   h2 {
@@ -34,7 +34,7 @@ body {
   input[type="password"] {
     width: 100%;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #9e7878;
     border-radius: 5px;
   }
   
@@ -42,7 +42,7 @@ body {
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: #007bff;
+    background-color: #2ec2ba;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -50,11 +50,11 @@ body {
   }
   
   button:hover {
-    background-color: #0056b3;
+    background-color: #0e2b49;
   }
   
   #message {
-    color: red;
+    color: rgb(71, 8, 8);
     font-weight: bold;
   }
   
