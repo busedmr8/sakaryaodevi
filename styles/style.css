@@ -50,11 +50,11 @@ body {
   }
   
   button:hover {
-    background-color: #0e2b49;
+    background-color: #96b2cf;
   }
   
   #message {
-    color: rgb(77, 9, 9);
+    color: rgb(48, 5, 5);
     font-weight: bold;
   }
   
