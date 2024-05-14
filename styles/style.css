@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #66d381;
+    background-color: #0f5c22;
   }
   
   .container {
     max-width: 400px;
     margin: 50px auto;
     padding: 20px;
-    background-color: #e29494;
+    background-color: #0b3e52;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(97, 10, 10, 0.1);
   }
@@ -43,7 +43,7 @@ body {
     width: 100%;
     padding: 10px;
     background-color: #469e9a;
-    color: #d49393;
+    color: #145f4c;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -54,7 +54,7 @@ body {
   }
   
   #message {
-    color: rgb(48, 5, 5);
+    color: rgb(94, 95, 20);
     font-weight: bold;
   }
   
