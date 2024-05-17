@@ -9,7 +9,7 @@ body {
     padding: 20px;
     background-color: #0b3e52;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(97, 10, 10, 0.1);
+    box-shadow: 0 0 10px #70b0d41a;
   }
   
   h2 {
@@ -54,7 +54,7 @@ body {
   }
   
   #message {
-    color: rgb(94, 95, 20);
+    color: rgb(231, 233, 116);
     font-weight: bold;
   }
   
